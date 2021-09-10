@@ -24,14 +24,23 @@ Please answer the following questions below, you may edit the readme file to inc
 
 1. How would you describe acessibility on the web to someone new to programming?
 
-<!-- adapting to different people's needs through easy to understand semantics and resizing windows for different mediums  -->
+<!-- adapting to different people's needs through easy to understand semantics and alternate mediums?  -->
 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
 
+<!-- 1) needs to have a responsive design to accomodate all device sizes 2) all links needs to be functional and 3) no barriers to users with disabilities -->
 
 3. How would you explain the concept of a variable to someone new to programming?
+
+<!-- a declared object that is set to perform a specific action -->
+
 4. What is the purpose of using functions in code?
+
+<!-- the specific action used for a desired outcome -->
+
 5. How do you access a key inside of an object inside of an array?
+
+<!-- use the map method -->
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
