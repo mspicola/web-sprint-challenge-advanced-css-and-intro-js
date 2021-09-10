@@ -27,6 +27,8 @@ Please answer the following questions below, you may edit the readme file to inc
 <!-- adapting to different people's needs through easy to understand semantics and resizing windows for different mediums  -->
 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
 5. How do you access a key inside of an object inside of an array?
